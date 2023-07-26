@@ -1,4 +1,0 @@
-INDEX VERSION 1.132+C:\Users\nicol\OneDrive\Documentos\POO\projeto-poo\.metadata\.plugins\org.eclipse.jdt.core
-2974811499.index
-1524994595.index
-1865797976.index
