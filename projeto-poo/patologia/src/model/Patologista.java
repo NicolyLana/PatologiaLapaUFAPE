@@ -6,4 +6,7 @@ public class Patologista extends Veterinario {
 		super(nome, email, telefone, crmv, instituicao);
 	}
 
+	public Patologista() {
+	}
+
 }
