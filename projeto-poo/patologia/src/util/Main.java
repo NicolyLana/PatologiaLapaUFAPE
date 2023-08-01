@@ -1,4 +1,4 @@
-package patologia;
+package util;
 
 public class Main {
 
